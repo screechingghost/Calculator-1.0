@@ -1,5 +1,6 @@
 # Calculator-1.0
- In this you can perform simple calculations.
+This is a simple calculator.
+In this you can perform simple calculations.
  will be adding more complex calculations to calculator soon.
  you can do following calculations:
  1.Addition
