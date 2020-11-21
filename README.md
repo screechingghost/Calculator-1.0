@@ -7,8 +7,7 @@ In this you can perform simple calculations.
  2.Subtraction
  3.Multiply
  4.Divide
- 5.Divide
- 6.square root
+ 5.square root
  
 
  
